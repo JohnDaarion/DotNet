@@ -1,0 +1,17 @@
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\SearchLife.exe.config
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\SearchLife.exe
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\SearchLife.pdb
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\Newtonsoft.Json.dll
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\Newtonsoft.Json.xml
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.Form1.resources
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.Properties.Resources.resources
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.exe
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.pdb
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.csprojAssemblyReference.cache
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.csproj.CoreCompileInputs.cache
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.csproj.CopyComplete
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\SearchLife.exe.manifest
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\bin\Debug\SearchLife.application
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.exe.manifest
+d:\dokumenty\visual studio 2017\Projects\Search\SearchLife\obj\Debug\SearchLife.application

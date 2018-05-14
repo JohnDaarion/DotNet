@@ -1,0 +1,6 @@
+d:\dokumenty\visual studio 2017\Projects\Search\Search\bin\Debug\netcoreapp1.1\Search.deps.json
+d:\dokumenty\visual studio 2017\Projects\Search\Search\bin\Debug\netcoreapp1.1\Search.runtimeconfig.json
+d:\dokumenty\visual studio 2017\Projects\Search\Search\bin\Debug\netcoreapp1.1\Search.runtimeconfig.dev.json
+d:\dokumenty\visual studio 2017\Projects\Search\Search\bin\Debug\netcoreapp1.1\Search.dll
+d:\dokumenty\visual studio 2017\Projects\Search\Search\obj\Debug\netcoreapp1.1\Search.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2017\Projects\Search\Search\obj\Debug\netcoreapp1.1\Search.AssemblyInfo.cs

@@ -1,0 +1,10 @@
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\bin\Debug\SearchWords.exe.config
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\bin\Debug\SearchWords.exe
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\bin\Debug\SearchWords.pdb
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\bin\Debug\Newtonsoft.Json.dll
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\bin\Debug\Newtonsoft.Json.xml
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\obj\Debug\SearchWords.exe
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\obj\Debug\SearchWords.pdb
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\obj\Debug\SearchWords.csprojAssemblyReference.cache
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\obj\Debug\SearchWords.csproj.CoreCompileInputs.cache
+d:\dokumenty\visual studio 2017\Projects\Search\SearchWords\obj\Debug\SearchWords.csproj.CopyComplete
